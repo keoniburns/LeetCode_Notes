@@ -13,7 +13,7 @@
    - [x] Validate Binary Search Tree (Medium)
    - [ ] Course Schedule (Medium) (need to review)
 4. Data Structures
-   - [ ] Implement Trie (Prefix Tree) (Medium)
+   - [x] Implement Trie (Prefix Tree) (Medium)
    - [ ] LRU Cache (Medium)
    - [ ] Design an ATM Machine (Medium)
 5. Math/Probability
